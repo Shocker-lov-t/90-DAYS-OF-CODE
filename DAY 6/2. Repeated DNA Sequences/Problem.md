@@ -15,8 +15,8 @@ Example 1:
 	  Output: ["AAAAACCCCC","CCCCCAAAAA"]
 Example 2:
 
-  Input: s = "AAAAAAAAAAAAA"
-  Output: ["AAAAAAAAAA"]
+	  Input: s = "AAAAAAAAAAAAA"
+	  Output: ["AAAAAAAAAA"]
    
 
 Constraints:
