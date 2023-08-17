@@ -1,5 +1,8 @@
 Problem link: [Leetcode 32 Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/description/)
 
+Given a string containing just the characters '(' and ')', return the length of the longest valid (well-formed) parentheses 
+substring.
+
 Example 1:
 
 	Input: s = "(()"
